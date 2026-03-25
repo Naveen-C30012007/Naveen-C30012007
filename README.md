@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi 👋, I'm Naveen C
 
-<!--
-**Naveen-C30012007/Naveen-C30012007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech Student – 2025  
+🏫 VIT Bhopal University  
+📅 Year: 2025 / 2026
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+B.Tech student at VIT Bhopal University. I have started learning coding and exploring data science, problem-solving, and digital technologies.
+
+---
+
+## 🌱 What I Want to Learn
+I aim to develop strong coding skills and gain practical knowledge to build useful applications.
+
+---
+
+## 📫 Contact
+📧 Email: nn864468@gmail.com
